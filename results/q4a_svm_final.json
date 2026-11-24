@@ -1,0 +1,9 @@
+{
+  "kernel": "rbf",
+  "C": 10.0,
+  "subset_size": 10000,
+  "train_acc": 0.9873,
+  "val_acc": 0.4862,
+  "test_acc": 0.4979,
+  "sv_fraction": 0.9551
+}

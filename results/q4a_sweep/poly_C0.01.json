@@ -1,0 +1,10 @@
+{
+  "kernel": "poly",
+  "C": 0.01,
+  "train_acc": 0.1816,
+  "val_acc": 0.1658,
+  "sv_fraction": 0.9957,
+  "n_support_unique": 9957,
+  "fit_seconds": 169.61565685272217,
+  "solver": "libsvm"
+}

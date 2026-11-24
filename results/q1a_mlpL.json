@@ -1,0 +1,9 @@
+{
+  "run_name": "q1a_mlpL",
+  "status": "complete",
+  "epochs_done": 25,
+  "param_count": 1792010,
+  "final_val_acc": 0.5152,
+  "final_train_acc": 0.6438222222222222,
+  "test_acc": 0.5252
+}

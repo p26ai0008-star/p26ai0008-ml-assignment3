@@ -1,0 +1,9 @@
+{
+  "run_name": "q3a_ae_c4",
+  "status": "complete",
+  "epochs_done": 25,
+  "param_count": 113159,
+  "final_val_mse": 0.009633459150791168,
+  "final_train_mse": 0.009552335331837336,
+  "test_mse": 0.00956977903842926
+}

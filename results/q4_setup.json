@@ -1,0 +1,18 @@
+{
+  "representation": "q3a_ae_c128",
+  "subset_size": 10000,
+  "subset_seed": 260008,
+  "scaler": "StandardScaler fit on the 10k subset",
+  "subset_class_counts": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ]
+}

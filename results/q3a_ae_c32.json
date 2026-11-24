@@ -1,0 +1,9 @@
+{
+  "run_name": "q3a_ae_c32",
+  "status": "complete",
+  "epochs_done": 25,
+  "param_count": 116771,
+  "final_val_mse": 0.002373090712353587,
+  "final_train_mse": 0.002361295274603698,
+  "test_mse": 0.002361483406275511
+}

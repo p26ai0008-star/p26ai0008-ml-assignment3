@@ -1,0 +1,9 @@
+{
+  "run_name": "q3a_ae_c128",
+  "status": "complete",
+  "epochs_done": 25,
+  "param_count": 129155,
+  "final_val_mse": 0.0019796995911747217,
+  "final_train_mse": 0.002009227854717109,
+  "test_mse": 0.001966996118426323
+}

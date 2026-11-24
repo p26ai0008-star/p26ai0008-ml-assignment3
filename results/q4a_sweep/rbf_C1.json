@@ -1,0 +1,10 @@
+{
+  "kernel": "rbf",
+  "C": 1.0,
+  "train_acc": 0.719,
+  "val_acc": 0.4772,
+  "sv_fraction": 0.947,
+  "n_support_unique": 9470,
+  "fit_seconds": 109.28187489509583,
+  "solver": "libsvm"
+}

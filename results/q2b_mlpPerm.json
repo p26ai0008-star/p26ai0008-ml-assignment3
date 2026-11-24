@@ -1,0 +1,9 @@
+{
+  "run_name": "q2b_mlpPerm",
+  "status": "complete",
+  "epochs_done": 25,
+  "param_count": 1792010,
+  "final_val_acc": 0.5148,
+  "final_train_acc": 0.641,
+  "test_acc": 0.5128
+}

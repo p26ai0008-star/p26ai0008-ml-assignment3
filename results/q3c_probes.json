@@ -1,0 +1,23 @@
+{
+  "q3a_ae_c4": {
+    "dim": 64,
+    "probe_train_acc": 0.36833333333333335,
+    "probe_test_acc": 0.3636
+  },
+  "dae_clean_test_mse": 0.004230696598688762,
+  "q3a_ae_c32": {
+    "dim": 512,
+    "probe_train_acc": 0.45668888888888887,
+    "probe_test_acc": 0.4268
+  },
+  "q3a_ae_c128": {
+    "dim": 2048,
+    "probe_train_acc": 0.4925111111111111,
+    "probe_test_acc": 0.441
+  },
+  "q3b_dae_c128": {
+    "dim": 2048,
+    "probe_train_acc": 0.5333777777777777,
+    "probe_test_acc": 0.4803
+  }
+}

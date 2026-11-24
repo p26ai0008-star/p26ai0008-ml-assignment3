@@ -1,0 +1,6 @@
+data/
+checkpoints/
+report/main.pdf
+report/*.log
+__pycache__/
+*.pyc

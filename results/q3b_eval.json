@@ -1,0 +1,10 @@
+{
+  "acc_clean_input": 0.6988,
+  "acc_corrupted_input": 0.3135,
+  "acc_clean_ae_recon": 0.4943,
+  "acc_dae_recon": 0.5092,
+  "mse_clean_ae_denoise": 0.010164705848693847,
+  "mse_dae_denoise": 0.005995741907755534,
+  "mse_noisy_vs_clean": 0.04838955942789713,
+  "sigma": 0.25
+}

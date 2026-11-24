@@ -1,0 +1,25 @@
+{
+  "rows": [
+    {
+      "k": 10,
+      "silhouette_train": 0.039281467524665374,
+      "silhouette_val": 0.03599875742368365
+    },
+    {
+      "k": 20,
+      "silhouette_train": 0.010953399432965081,
+      "silhouette_val": 0.007753212684158947
+    },
+    {
+      "k": 30,
+      "silhouette_train": 0.007155124113081906,
+      "silhouette_val": 0.004422740255710869
+    },
+    {
+      "k": 40,
+      "silhouette_train": 0.007005932998210949,
+      "silhouette_val": 0.0004997326762194372
+    }
+  ],
+  "selected_k": 10
+}

@@ -1,0 +1,10 @@
+{
+  "kernel": "linear",
+  "C": 0.01,
+  "train_acc": 0.5256,
+  "val_acc": 0.3966,
+  "sv_fraction": 1.0,
+  "n_support_unique": 10000,
+  "fit_seconds": 50.4454083442688,
+  "solver": "l-bfgs-primal-l2"
+}

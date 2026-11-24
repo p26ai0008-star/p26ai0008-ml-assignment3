@@ -1,0 +1,185 @@
+{
+  "selected_k": 10,
+  "test_ari": 0.04203066917875995,
+  "test_nmi": 0.0855454579132662,
+  "test_purity": 0.2264,
+  "contingency": [
+    [
+      99,
+      99,
+      28,
+      28,
+      15,
+      15,
+      10,
+      49,
+      210,
+      161
+    ],
+    [
+      43,
+      37,
+      103,
+      141,
+      120,
+      188,
+      66,
+      114,
+      52,
+      15
+    ],
+    [
+      71,
+      173,
+      40,
+      50,
+      41,
+      31,
+      23,
+      91,
+      191,
+      308
+    ],
+    [
+      78,
+      113,
+      127,
+      145,
+      130,
+      148,
+      153,
+      286,
+      43,
+      157
+    ],
+    [
+      11,
+      57,
+      59,
+      144,
+      126,
+      143,
+      109,
+      92,
+      34,
+      26
+    ],
+    [
+      213,
+      50,
+      79,
+      67,
+      20,
+      47,
+      58,
+      35,
+      28,
+      54
+    ],
+    [
+      327,
+      69,
+      120,
+      37,
+      58,
+      76,
+      18,
+      59,
+      288,
+      76
+    ],
+    [
+      29,
+      131,
+      129,
+      134,
+      155,
+      101,
+      205,
+      98,
+      24,
+      90
+    ],
+    [
+      118,
+      216,
+      281,
+      193,
+      307,
+      214,
+      282,
+      151,
+      120,
+      103
+    ],
+    [
+      11,
+      55,
+      34,
+      61,
+      28,
+      37,
+      76,
+      25,
+      10,
+      10
+    ]
+  ],
+  "svm_test_acc": 0.4979,
+  "svm_vs_cluster_ari": 0.06104063523829561,
+  "svm_vs_cluster_nmi": 0.12213962967627817,
+  "svm_per_class_acc": {
+    "airplane": 0.596,
+    "automobile": 0.631,
+    "bird": 0.39,
+    "cat": 0.354,
+    "deer": 0.414,
+    "dog": 0.379,
+    "frog": 0.523,
+    "horse": 0.547,
+    "ship": 0.63,
+    "truck": 0.515
+  },
+  "cluster_per_class": {
+    "airplane": {
+      "dominant_cluster": 6,
+      "fraction_in_dominant": 0.327
+    },
+    "automobile": {
+      "dominant_cluster": 8,
+      "fraction_in_dominant": 0.216
+    },
+    "bird": {
+      "dominant_cluster": 8,
+      "fraction_in_dominant": 0.281
+    },
+    "cat": {
+      "dominant_cluster": 8,
+      "fraction_in_dominant": 0.193
+    },
+    "deer": {
+      "dominant_cluster": 8,
+      "fraction_in_dominant": 0.307
+    },
+    "dog": {
+      "dominant_cluster": 8,
+      "fraction_in_dominant": 0.214
+    },
+    "frog": {
+      "dominant_cluster": 8,
+      "fraction_in_dominant": 0.282
+    },
+    "horse": {
+      "dominant_cluster": 3,
+      "fraction_in_dominant": 0.286
+    },
+    "ship": {
+      "dominant_cluster": 6,
+      "fraction_in_dominant": 0.288
+    },
+    "truck": {
+      "dominant_cluster": 2,
+      "fraction_in_dominant": 0.308
+    }
+  }
+}

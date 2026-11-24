@@ -1,0 +1,9 @@
+{
+  "run_name": "q2c_cnnGray",
+  "status": "complete",
+  "epochs_done": 25,
+  "param_count": 1778226,
+  "final_val_acc": 0.6244,
+  "final_train_acc": 0.9796222222222222,
+  "test_acc": 0.6295
+}
